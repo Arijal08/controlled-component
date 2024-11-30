@@ -1,6 +1,6 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
-import ControlledForm from "./assets/components/ControlledForm";
+import ControlledForm from "./components/ControlledForm";
 
 // const element = <p>Arijal Sidik</p>;
 
